@@ -1,0 +1,27 @@
+problemática:
+
+el usuario quiere saber cuántas letras tiene una palabra
+
+----------------------------------------------------
+
+Algoritmo -->
+
+1. solicitar que se ingrese una palabra
+2. contar la cantidad de letras en la palabra ingresada
+3. mostrar al usuario el resultado del conteo
+
+----------------------------------------------------
+
+Pseudocódigo -->
+
+Inicio
+   // paso 1: solicitar entrada al usuario
+   Mostrar mensaje: 'Por favor ingresa una palabra: '
+   definir variable con la lectura de entrada
+   // paso 2: contar la cantidad de letras
+   cantidad_letras = longitud de la palabra ingresada
+   // paso 3: mostrar al usuario el resultado
+   Mostrar mensaje: 'La palabra ingresada tiene {cantidad_letras} cantidad de letras'
+Fin
+
+----------------------------------------------------
